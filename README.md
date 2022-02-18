@@ -1,3 +1,3 @@
 # AI-companies-in-Egypt-
-for imstance
+for instance
 
